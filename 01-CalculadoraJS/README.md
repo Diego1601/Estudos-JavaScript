@@ -24,10 +24,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🧩 Funcionalidades
 
-- ✅ Funcionalidade 1  
-- ✅ Funcionalidade 2  
-- ✅ Funcionalidade 3  
-- ⚙️ Em desenvolvimento *(caso algo ainda esteja sendo feito)*
+- ✅ Recebe os valores digitados.
+- ✅ Calcula os valores recebidos.
+- ✅ Retorna o resultado na tela de exibição. 
+- ✅ Contém tela de exibição do resultado e da expressão. 
+- ✅ Função de apagar os valores digitados. 
+- ⚙️ Em desenvolvimento *(Opção para selecionar calculadora mais completa com outros operadores aritméticos.)*
 
 ---
 
