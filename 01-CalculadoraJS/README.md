@@ -6,9 +6,7 @@
 
 ## 📸 Demonstração
 
-Adicione aqui uma imagem, GIF ou link de demonstração do projeto.
-
-![Demonstração do projeto](./assets/demo.gif)
+https://github.com/user-attachments/assets/bf6bd504-be0b-405e-8b09-e39162146a4a
 
 ---
 
