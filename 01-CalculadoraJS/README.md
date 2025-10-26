@@ -6,7 +6,7 @@
 
 ## 📸 Demonstração
 
-https://github.com/Diego1601/Estudos-JavaScript/01-CalculadoraJS/01-PROTÓTIPO-NO-PENPOT/demonstração.mp4
+https://github.com/user-attachments/assets/bf6bd504-be0b-405e-8b09-e39162146a4a
 
 ---
 
