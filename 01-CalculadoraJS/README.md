@@ -8,7 +8,7 @@
 
 Adicione aqui uma imagem, GIF ou link de demonstração do projeto.
 
-![Demonstração do projeto](./assets/demo.gif)
+![Demonstração do projeto](https://github.com/Diego1601/Estudos-JavaScript/01-CalculadoraJS/01-PROTÓTIPO-NO-PENPOT/demonstração.mp4)
 
 ---
 
