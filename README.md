@@ -9,7 +9,7 @@ Este repositório reúne meus **projetos de prática e aprendizado em JavaScript
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| 🧮 [Calculadora JS](./calculadora-js) | Calculadora simples com HTML, CSS e JavaScript | [Ver código](./calculadora-js) |
+| 🧮 [Calculadora JS](https://github.com/Diego1601/Estudos-JavaScript/tree/main/01-CalculadoraJS) | Calculadora simples com HTML, CSS e JavaScript | [Ver código](./calculadora-js) |
 
 
 ---
