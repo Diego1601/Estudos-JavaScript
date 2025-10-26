@@ -1,0 +1,3 @@
+# CALCULADORA FEITA COM JAVASCRIPT PURO
+
+## Status: em andamento

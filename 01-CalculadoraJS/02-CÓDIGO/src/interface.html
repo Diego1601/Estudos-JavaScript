@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./design_interface.css" />
+    <title>Calculadora JS</title>
+  </head>
+
+  <body>
+
+    <header id="header_principal">
+       <h1 id="title_calculadoraJS">Calculadora JS</h1> 
+    </header>
+    
+    <section class="section_pai">
+<section class="header_calculadora">
+      <img
+        src="./icones/js-logo.svg"
+        alt="ícone js"
+        class="icon_header"
+      />
+      <h3 class="titulo_header">Calculadora JS</h3>
+    </section>
+
+    <section class="Section_Calculadora">
+      <header class="header_Calculadora">
+        <div class="menu_btn">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <h4 class="menu_simples">SIMPLES</h4>
+      </header>
+
+      <section class="section_tela">
+        <div class="valor_historico"></div>
+        <div class="valor_saida"></div>
+      </section>
+      
+
+      <section class="valor_entrada">
+        <div class="Botoes_linha_1">
+          <button id="botao_c">
+            <h4 id="titulo_botao_c">C</h4>
+          </button>
+          <button id="botao_apagar">
+            <img class="img_excluir" src="./icones/excluir.svg" alt="Excluir">
+          </button>
+          <button class="botao_operador">
+            <h4>%</h4>
+          </button>
+          <button class="botao_numerico botao_operador">
+            <h4>÷</h4>
+          </button>
+        </div>
+
+        <div class="Botoes_linha_2">
+          <button class="botao_numerico">
+            <h4>7</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>8</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>9</h4>
+          </button>
+          <button class="botao_operador">
+            <h4>x</h4>
+          </button>
+        </div>
+
+        <div class="Botoes_linha_3">
+          <button class="botao_numerico">
+            <h4>4</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>5</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>6</h4>
+          </button>
+          <button class="botao_operador">
+            <h4>-</h4>
+          </button>
+        </div>
+
+        <div class="Botoes_linha_4">
+          <button class="botao_numerico">
+            <h4>1</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>2</h4>
+          </button>
+          <button class="botao_numerico">
+            <h4>3</h4>
+          </button>
+          <button class="botao_operador">
+            <h4>+</h4>
+          </button>
+        </div>
+
+        <div class="Botoes_linha_5">
+          <button class="botao_numerico" id="botao_zero">
+            <h4>0</h4>
+          </button>
+          <button class="botao_resultado">
+            <h4>=</h4>
+          </button>
+        </div>
+      </section>
+    </section>
+    </section>
+    
+    <script src="calculadora.js"></script>
+  </body>
+</html>
