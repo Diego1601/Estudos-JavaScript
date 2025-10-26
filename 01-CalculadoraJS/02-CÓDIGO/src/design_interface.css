@@ -137,7 +137,7 @@ h3, h4 {
 }
 
 .img_excluir {
-    width: 1.2vw;
+    width: 5vw;
 }
 
 .botao_operador {
@@ -175,6 +175,10 @@ button {
         width: 70%;
         height: 65%;
     }
+
+    .img_excluir {
+        width: 4.5vw;
+    }
 }
 
 @media (min-width: 576px) {
@@ -200,6 +204,10 @@ button {
         width: 55%;
         height: 60%;
     }
+
+    .img_excluir {
+        width: 4vw;
+    }
 }
 
 @media (min-width: 640px) {
@@ -224,6 +232,10 @@ button {
     .Section_Calculadora {
         width: 55%;
         height: 60%;
+    }
+
+    .img_excluir {
+        width: 3.5vw;
     }
 }
 
@@ -252,6 +264,10 @@ button {
         width: 50%;
         height: 60%;
     }
+
+    .img_excluir {
+        width: 3vw;
+    }
 }
 
 /*BREAKPOINTS - DESKTOPS*/
@@ -279,6 +295,10 @@ button {
         width: 25%;
         height: 60%;
     }
+
+    .img_excluir {
+        width: 2.5vw;
+    }
 }
 
 @media (min-width: 1025px) and (max-width: 1440px) {
@@ -304,6 +324,10 @@ button {
         width: 25%;
         height: 60%;
     }
+
+    .img_excluir {
+        width: 2vw;
+    }
 }
 
 @media (min-width: 1440px) and (max-width: 2560px) {
@@ -328,5 +352,9 @@ button {
     .Section_Calculadora {
         width: 20%;
         height: 60%;
+    }
+
+    .img_excluir {
+        width: 1.5vw;
     }
 }
